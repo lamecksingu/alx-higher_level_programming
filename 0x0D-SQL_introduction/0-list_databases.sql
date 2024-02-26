@@ -1,1 +1,2 @@
-VimCrypt~03!K╚┘·%уА°²2╙д╣(zзмFсЁB╚O▐├K°КUёuШD(?Ш╨P	D┴-чу0?v<гz©░█)г
+-- List all databases of your MYSQL Server
+SHOW DATABASES;
